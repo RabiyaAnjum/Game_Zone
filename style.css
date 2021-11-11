@@ -1,0 +1,42 @@
+body{
+    position: relative;
+    
+}
+.info{
+    display: -ms-flexbox;
+    background-color:skyblue;
+    align-content: center;
+}
+
+
+
+.header{
+   background-color:mediumturquoise;
+   text-align: center;
+   widows: 200px;
+   height: 200px;	
+   text-decoration-color: moccasin;
+   background-image: linear-gradient(rgba(19, 140, 170, 0.8),rgba(0,0,0,0.4)),url(banner1.jpg);
+   font-size: cover;
+
+}
+}
+.Products{
+    background-color:skyblue(151, 116, 197);
+    display: flex;
+
+    justify-content: space-around;
+    padding: 70px; ;
+}
+.item{
+    margin: 20px;
+    content: normal;
+}
+footer{
+    padding: 40px;
+    display:inline-flexbox;
+    justify-content: space-around;
+}
+img{
+    display: flex;
+}
